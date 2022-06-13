@@ -1,1 +1,3 @@
-# webscraping_web3.0.com
+# Webscraper for web3.com
+
+Simple web scraper.
