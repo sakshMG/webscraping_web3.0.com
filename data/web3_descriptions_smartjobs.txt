@@ -1,0 +1,872 @@
+Quillhash Technologies is a pioneer in developing enterprise-grade Blockchain solutions. We help traditional businesses become more efficient, streamlined, creative, and innovative by helping them realize the potential of the latest tech - Blockchain, AI, and IoT.
+We are looking for passionate smart contract auditor interns who will review smart contracts and decentralized applications for security vulnerabilities within the web3 ecosystem. Under this role, you will work with the QuillAudits team, a product by QuillHash to provide cybersecurity solutions to crypto projects and start-ups. As a result of our industry-leading and quality assuring services, we have helped 400+ projects to eliminate serious security threats and have secured $15B+ in total value locked.
+https://audits.quillhash.com/
+What you will do:
+Review the code (primarily solidity contracts) of blockchain projects.
+Identify vulnerabilities, design and architectural flaws, quality improvement, and ways to mitigate future risk.
+Write clear and concise reports and “action-steps” for developers to quickly mitigate and fix any issues discovered
+Provide insights in establishing best practices for security culture within the industry.
+Interact with developers, and key stakeholders when identifying and handling security issues
+What we are looking for:
+A deep understanding of the EVM, the ETH Yellow Paper, & EVM OP_Codes
+Fluency in Solidity
+Experience with security CTFs, like Ethernaut, Damn Vulnerable Defi etc and Development environments like Hardhat, Truffle, etc.
+Comprehensive Knowledge of Javascript OR Python is required.
+Knowledge of deFi , NFT protocols .
+Understanding of Smart Contract Security Principles
+Why we are awesome:
+Work from Home friendly and Remote working.
+Professional and Personal Development.
+Fitness and online course allowances.
+Company Events.
+5-day workdays.
+Competitive Performance Bonuses.
+One of the pioneer companies in the blockchain space.
+Working with professionals in the heart of the blockchain industry.
+Dynamic startup environment, you will learn a lot of things.
+Flat organization structure with an opportunity to work very closely with the founder.
+QuillHash Technologies focuses on Healthcare, Loyalty Programs, Supply Chain Management, Insurance, and Blockchains. Their company has offices in Singapore, United Kingdom, and Gurgaon. They have a small team that's between 11-50 employees.
+You can view their website at https://www.quillhash.com or find them on Twitter, Facebook, LinkedIn, and Product Hunt.At Composable Finance we are at the forefront of Crypto, building robust cross-chain & cross-layer infrastructure to allow the future of DeFi where almost any asset or contract can seamlessly interoperate.After 32mil Series A we're now looking for a Team Lead/Snr with proven Substrate Rust experience, who wants to lead or join a highly technical team with deep knowledge of DeFi and take it to the next level.ResponsibilitiesIf you join this role you will be able to:
+Lead a development team focused on building a parachain. 
+Be hands-on in development.
+Manage a team of Substrate Rust developers.
+Sync with Ethereum developers building other things in the space.
+Requirements & skillsWe are looking for someone that:
+Has proven leadership or management experience.
+Is an experienced Substrate Rust developer.
+Understands decentralized, high-performance systems.
+Can analyze and optimize the platform’s performance.
+Has experience with security audits of third-party and internal solutions.
+Is interested in the Polkadot ecosystem.
+Has the ability to design, research and develop blockchain-based solutions.
+Understands how to improve engineering standards, tooling, and processes.
+Nice to have
+Substantial experience.
+Familiarity with DeFi such as yearn and curve.
+Ability to design algorithms and mathematical models.
+Perks
+Competitive Crypto payments, all made in USDC. 
+100% remote work. No geographic restrictions. 
+An entrepreneurial environment that encourages innovation and facilitates the growth of cutting-edge technology. 
+The ability to work as an independent contractor: We treat you as your own agent and support you accordingly!
+Annual Working Equipment Allowance.
+Monthly Gym & Fitness Bonus
+Paid Absence Days
+Global WeWork membership, with access to more than 600 locations worldwide.
+Annual personal development funding to facilitate career development
+Diversity & Inclusion: A company commitment to equal opportunity. We do not condone discrimination on the premise of race, color, religion, sexual orientation, age, gender identity or expression.Intro:
+Join our team and work directly with the founders to build the future of Automation for the upcoming decentralized web. Enjoy a lot of perks, travel with us to cool events and participate in amazing off-side retreats with the team!
+Participate in creating the most sophisticated crypto bot network ever created by designing the smart contracts that will rule them all!
+We are a fully remote team and although we hire globally.
+What we offer:
+A fully remote team with team members in Zug, Paris, New York, Berlin, and many other cool places
+Join the “Gelato Legendary Member Club” and work directly with the founders
+Participate in building the infrastructure that aims to become the glue between all crypto networks and power the most promising dapps on Ethereum and beyond
+Generous Token Package - Get a share of the network’s token and be able to participate in the Gelato DAO
+Chance to participate in shaping the future of web3 by working together with the biggest projects in this space, such as MakerDAO, Connext, Quickswap, etc.
+Worldclass Investors - We are backed by top class VCs and Angels including Dragonfly, Galaxy Digital, ParaFi, Gnosis, Stani Kulechov and many more!
+Requirements:
+Experience in writing smart contracts in solidity
+Experience with web3 libraries (ethers.js, web3.js) - preferably ethers.js
+Experience with testing your code locally and on ethereum test networks
+Experience with the hardhat development environment
+Experience deploying contracts to production environments like mainnet or polygon
+Experience with writing subgraphs for indexing contract data
+Experience using dapps like Uniswap, Aave, or Maker.
+You can work with high autonomy
+Strong written and verbal communication skills
+Bonus:
+Knowledge about the inner workings of the EVM
+Mathematics & Finance Background
+Experience in building and running bots that interact with smart contracts on Ethereum
+Knowledge about Ethereum Client & Mining software
+Front-end experience, building dApps on existing smart contracts
+Technologies we use and teach:
+Solidity
+Node.js
+Typescript
+Javascript
+Ethers.js
+Hardhat
+React
+Frontier focuses on Blockchains. Their company has offices in United Kingdom. They have a small team that's between 11-50 employees.
+You can view their website at https://fr0ntierx.comAbout Parity
+Parity Technologies builds core infrastructure for blockchains and Web 3.0 technologies. This means dealing with P2P networking, consensus algorithms, cryptography, databases, and decentralized applications. We strive to write the fastest, lightest, and safest core technology in Blockchain and write lots of open-source code. 
+Parity works in a very flat hierarchy with lots of autonomy and high levels of personal responsibility, and we try to mimic an open-source workflow in much of what we do. We have an older article on our blog about our development practices which you may want to read.
+ 
+About the position:
+For this role you will be mostly working on Parity’s ink! ‒ a domain-specific language to write smart contracts in Rust for blockchains built on the Substrate framework. ink! Is an opinionated way of how we think writing smart contracts in Rust should be done. Rust has great support for WebAssembly and we make use of this by compiling ink! smart contracts to WebAssembly.
+Besides the developer experience with ink! a number of other hard challenges exist. One of those is that we are constantly optimising our contracts so that they are compiled to as-small-as-possible WebAssembly blobs ‒ this is important for e.g. gas fees and transaction throughput. There is a lot of room for innovation and we’re trying hard to stay ahead of our competition.
+Improving performance, integrating XCM, and most importantly, getting WebAssembly smart contracts on par with the Solidity ecosystem are some of the things on our roadmap.
+You will be working with the ink! team and have a close collaboration with the people working on Substrate’s contracts module, as well as the Contracts UI ‒ a web application to deploy and interact with smart contracts.
+We are a fast moving team, some of us are living in Berlin, but we’re primarily remote. We have regular team retreats in nice locations to discuss technical challenges, do hackathons, and socialise. It’s important to us that we’re all having fun along the way and we’re a humorous bunch.
+To us It’s important to us that you’re “hungry” and passionate. We are primarily developers, but besides that we engage with the community, talk to teams building with ink!, answer questions in our StackExchange community, provide and maintain our own documentation and tutorials, as well as giving talks and workshops. That’s something we would like to see from you as well. 
+If your prior role was as a Solidity developer or in a Developer Relations role and you’re thinking of doing more Rust ‒ this role might be just the job you have been looking for.
+ 
+Requirements:
+Experience with Rust.
+Familiarity with the Rust ecosystem.
+Knowledge of Bitcoin, Ethereum or other blockchain technologies.
+An interest in decentralized technology and Web 3.
+Nice to have:
+Deep knowledge in one of the following areas is especially appreciated.
+Knowledge of Solidity or other smart contract programming languages.
+Experience implementing decentralized applications (Dapps), including “Layer 1” and “Layer 2” approaches..
+Benefits:
+Competitive salaries and benefits.
+Opportunity to become an expert in the latest blockchain technologies.
+Working at Parity means focusing on stuff that matters: building cutting-edge technology for a better and more decentralized internet. Our teams enjoy a high degree of freedom and autonomy to achieve that goal.
+Because we value initiative and learning, we've defined a generous personal improvement budget to attend conferences or skills courses of your own choosing. We think you know what's best for you!
+Parity is a diverse company with people from various countries and we will support you with German or English language courses where needed (and desired).
+We have a remote-friendly company setup.
+Bringing the team together is something we value a lot and we have regular company retreats (or will have, pending the Covid pandemic).
+Not a perfect match to our requirements? We're happy to receive your application anyways and hear how you think you can help us achieve our mission.
+To see how we use your data please see our Applicant Notice.Intro:
+Join our team and work directly with the founders to build the future of Automation for the upcoming decentralized web. Enjoy a lot of perks, travel with us to cool events and participate in amazing off-side retreats with the team!
+Participate in creating the most sophisticated crypto bot network ever created by designing the smart contracts that will rule them all!
+We are a fully remote team and although we hire globally, there is a strong preference for this role to be based in Central Europe.
+Watch a short summary
+What we offer:
+A fully remote team with team members in Zug, Paris, New York, Berlin, and many other cool places
+Join the "Gelato Legendary Member Club" and work directly with the founders
+Participate in building the infrastructure that aims to become the glue between all crypto networks and power the most promising dapps on Ethereum and beyond
+Generous Token Package - Get a share of the network's token and be able to participate in the Gelato DAO
+Chance to participate in shaping the future of web3 by working together with the biggest projects in this space, such as MakerDAO, Connext, Quickswap, etc.
+Worldclass Investors - We are backed by top class VCs and Angels including Dragonfly, Galaxy Digital, ParaFi, Gnosis, Stani Kulechov and many more!
+Requirements
+Experience in writing smart contracts in solidity
+Experience with web3 libraries (ethers.js, web3.js) - preferably ethers.js
+Experience with testing your code locally and on ethereum test networks
+Experience with the hardhat development environment
+Experience deploying contracts to production environments like mainnet or polygon
+Experience with writing subgraphs for indexing contract data
+Experience using dapps like Uniswap, Aave, or Maker.
+You can work with high autonomy
+Strong written and verbal communication skills
+Bonus:
+Knowledge about the inner workings of the EVM
+Mathematics & Finance Background
+Experience in building and running bots that interact with smart contracts on Ethereum
+Knowledge about Ethereum Client & Mining software
+Front-end experience, building dApps on existing smart contracts
+Technologies we use and teach:
+Solidity
+Node.js
+Typescript
+Javascript
+Ethers.js
+Hardhat
+React
+Benefits
+Unlimited holiday (yes you heard that right!)
+Work very autonomously
+Generous GEL token package
+Competitive Salary
+Work together with one of the best technical teams on Ethereum
+Build relationships with top blockchain teams which are already Gelato users, including MakerDAO, Instadapp, Zerion, Quickswap and many more
+Chance to travel the world to go to exciting events and connect with key players in this industry
+Join amazing in-person offsites all over the world
+Gelato Network focuses on Blockchain / Cryptocurrency. Their company has offices in Zug and Remote. They have a small team that's between 11-50 employees.
+You can view their website at https://gelato.network/ or find them on Twitter.Mission
+Design and develop quests and missions for intermediate to advanced solidity developers. You possess the mindset and behavior of an engineer.
+Collaborate cross-functionally with everyone
+Find the right balance between progress (i.e. shipping quickly) and perfection (i.e. measuring twice).
+Works at a rapid pace with a large amount of ownership and autonomy
+You’ll help us to think about how to create web3 connected, powerful user experiences for our growing community
+Your Profile
+Ideally, previous production-level smart contract experience
+Fast learner
+Track record of high quality, well-crafted code that has been used in production environments.
+You bring in strong communication skills in English (written and spoken)
+Good knowledge of Solidity development patterns and best practice
+Experience with smart contract development tools and frameworks
+Ability to apply high quality testing standards and good documentation practices
+You’ve spent your teenage years on Age of Empires II
+Solid understanding of EVM
+Good grasp of software engineering principles
+Pragmatic and autonomous
+You don’t meet all the requirements? Don’t sweat it, we are constantly looking for talent with passion, grit and integrity. You are encouraged to apply even if your experience doesn’t precisely match the job description. Your skills and drive will stand out and set you apart.
+If this sounds like an environment you would thrive in, please send your cover letter demonstrating why you would succeed in this role and current CV to us at [email protected]
+Node Guardians values your time hence our interview cycle is concise & respectful :)
+Node Guardians focuses on Blockchain / Cryptocurrency. Their company has offices in Dubai and Remote. They have a small team that's between 1-10 employees.
+You can view their website at https://twitter.com/nodeguardiansResponsibilities Participate in backend projects based on DeFi projects Participate in the innovation and research and development of DeFi projects Participate in research and survey of blockchain forward-looking projects and fields Planning architecture for smart contracts with optimization patterns and data structures for blockchain environment. Developing new and engineering smart contracts for financial protocols on Ethereum blockchain Bachelor's degree in Computer Science, Engineering or similar experience Self-study / research in relevant projects will would be advantageous for this role, minor training & guidance will be provided. Prior experience in blockchain, finance, banking, consultancy or forex trading is an additional advantageous Have research and understanding of basic public chain projects (Ethereum/Solana/Cosmos/Rust) etc. In-depth understanding of Ethereum smart contract solidity and its development framework, truffle, hardhat Familiar with the principles of mainstream DeFi protocols ( uniswap v2/v3/compound/aave ) Good to have backend frameworks ( express, nestjs, typeorm etc. ) skills. Possess good learning ability, communication ability and analytical problem solving ability. What you can expect: Fast-paced, result-oriented environment Exposure to the latest market insights Supportive team and open culture Competitive Remuneration Regular Team Bonding Energetic & Fun Environment Flexi Working Hour Overtime Meal & TransportIntro:
+Join our team and work directly with the founders to build the future of Automation for the upcoming decentralized web. Enjoy a lot of perks, travel with us to cool events and participate in amazing off-side retreats with the team!
+Participate in creating the most sophisticated crypto bot network ever created by designing the smart contracts that will rule them all!
+We are a fully remote team and although we hire globally, there is a strong preference for this role to be based in Central Europe.
+Watch a short summary
+What we offer:
+A fully remote team with team members in Zug, Paris, New York, Berlin, and many other cool places
+Join the "Gelato Legendary Member Club" and work directly with the founders
+Participate in building the infrastructure that aims to become the glue between all crypto networks and power the most promising dapps on Ethereum and beyond
+Generous Token Package - Get a share of the network's token and be able to participate in the Gelato DAO
+Chance to participate in shaping the future of web3 by working together with the biggest projects in this space, such as MakerDAO, Connext, Quickswap, etc.
+Worldclass Investors - We are backed by top class VCs and Angels including Dragonfly, Galaxy Digital, ParaFi, Gnosis, Stani Kulechov and many more!
+Requirements
+Requirements:
+Experience in writing smart contracts in solidity
+Experience with web3 libraries (ethers.js, web3.js) - preferably ethers.js
+Experience with testing your code locally and on ethereum test networks
+Experience with the hardhat development environment
+Experience deploying contracts to production environments like mainnet or polygon
+Experience with writing subgraphs for indexing contract data
+Experience using dapps like Uniswap, Aave, or Maker.
+You can work with high autonomy
+Strong written and verbal communication skills
+Bonus:
+Knowledge about the inner workings of the EVM
+Mathematics & Finance Background
+Experience in building and running bots that interact with smart contracts on Ethereum
+Knowledge about Ethereum Client & Mining software
+Front-end experience, building dApps on existing smart contracts
+Technologies we use and teach:
+Solidity
+Node.js
+Typescript
+Javascript
+Ethers.js
+Hardhat
+React
+Benefits
+Unlimited holiday (yes you heard that right!)
+Work very autonomously
+Generous GEL token package
+Competitive Salary
+Work together with one of the best technical teams on Ethereum
+Build relationships with top blockchain teams which are already Gelato users, including MakerDAO, Instadapp, Zerion, Quickswap and many more
+Chance to travel the world to go to exciting events and connect with key players in this industry
+Join amazing in-person offsites all over the world
+Gelato Network focuses on Blockchain / Cryptocurrency. Their company has offices in Zug and Remote. They have a small team that's between 11-50 employees.
+You can view their website at https://gelato.network/ or find them on Twitter.Hexens.io is looking for a Smart Contract Auditor to join their team. Hexens.io is a company that provides state-of-the-art cybersecurity services with an essential focus on blockchain. The company solves sophisticated issues for customers with codes containing multimillion assets.
+Job responsibilities:
+Review smart contracts and analyze security measures
+Audit smart contracts following the highest security industry standards
+Mentor and educate engineers internally on the security best practices
+You are security-minded and aware of the pitfalls of EVM code and vulnerable flows.
+Review code (primarily solidity smart contracts) of blockchain projects.
+Work to identify vulnerabilities, design and architectural flaws, quality improvement, and ways to mitigate future risk.
+Deliver clear and concise reports and “action-items” for developers to quickly mitigate and fix any issues discovered.
+Interact with developers, and key stakeholders when identifying and handling security issues.
+Other related responsibilities.
+Required qualifications (optional):
+At least 2 years of work experience in cybersecurity
+Experience with JavaScript/TypeScript
+Demonstrated expertise with Solidity, EVM and blockchain specifics.
+Experience assessing smart contract security risks.
+Experience with unit and integration testing.
+Experience with hardhat and geth or other development frameworks and local environments.
+Fuzzing and formal verification.
+Experience developing and building on DeFi protocols and smart contracts is a big plus.
+Proactive problem solver.
+Benefits:
+Possibility to work alongside industry-leading specialists.
+Highly competitive salary.
+Corporate lunches.
+Great work environment.
+Relocation package to Yerevan, Armenia.
+To apply to this position, please send your CVs to [email protected] including the position title “Smart Contract Auditor” in the subject line.
+HEXENS Cyber Security focuses on Cyber Security and Blockchain / Cryptocurrency. Their company has offices in London. They have a small team that's between 11-50 employees.
+You can view their website at https://hexens.ioWe’re looking for a Senior Smart Contracts Security Researcher & Engineer to join our team.  Experience with one or more smart contract languages, including, but not limited to, Solidity, Michelson, Ligo, SmartPy, and Clarity is required, along with familiarity with latest security best practices and knowledge of advancements in related fieldsThis position is to perform security research, analysis and engineering  on smart contract projects for our clients, such as analyzing designs, specifications and codebases, along with documenting findings, providing recommendations, and communicating with consulting clients. We work with a variety of ecosystems, including, but not limited to, Ethereum, Tezos, Stacks, and Cosmos. 
+About Least Authority
+Least Authority is committed to building and supporting the development of usable technology solutions and ethical business practices to advance digital security and preserve privacy as a fundamental human right.
+As part of our business, we provide security consulting services to help others make their solutions more secure. We support teams from the design phase through the production launch and after through a variety of security consulting services.
+Additionally, we develop usable products that advance digital security and protect the privacy of users and contribute to various communities to promote the use of secure systems and privacy-protecting technology.
+
+Why join Least Authority?
+
+We are a remote first company,  headquartered in Berlin;
+Our team provides flexible working arrangements;
+We offer continuous learning  opportunities; 
+We operate based on ethical business practices;
+We are a mission-driven company;
+We value Diversity & Inclusion; and
+We can legally employ our team members from remote and support with relocation to Germany.
+
+The responsibilities for this position include:
+Conduct research on software and related technology to look for security issues, with a focus on critical vulnerabilities as known through industry best practices;
+
+Analyze technical designs documentation and specifications for potential security issues, vulnerabilities and other flaws;
+
+Perform manual code reviews and investigate for potential security issues in code repositories and codebases, along with related code comments, tests and dependencies;
+
+Analyze and propose potential mitigation and remediation strategies for security issues found;
+
+Communicate with team members specific security issues and general findings found during research activities;
+
+Design new approaches to security issues in code and systems;
+
+Develop potential solutions, including but not limited to producing documentation, code and other helpful artifacts; 
+
+Engineer systems, tools and products, to help with the security of data in transit and at rest, including privacy enhancing technologies; 
+
+Develop preventative approaches to help avoid security issues; 
+
+Actively participate in project report preparation activities;
+
+Provide these research and engineering activities for both consulting engagements and internal projects;
+
+Work cross-functionally to meet project deadlines and goals;
+
+Participate in team efforts, including meetings, to facilitate collaboration towards shared project and Company goals;
+
+Possess and share knowledge as it relates to current security best practices and industry advancements; and 
+
+Anything else as mutually agreed.
+
+
+The  requirements for this position are the following.
+
+2+ years working with one or more smart contract languages, including, but not limited to, Solidity, Michelson, Ligo, SmartPy, and Clarity; and
+Familiarity with and interest in the latest security best practices and knowledge of advancements in related fields. 
+
+
+The ideal person for this role has some skills in the following areas:
+
+Distributed & decentralized technologies
+Smart contract systems and DeFi concepts and applications
+Blockchain, cryptocurrency and Web 3.0 systems
+Open source software and development practices
+Security research and knowledge sharing to advance best practices
+Adversarial scenarios, attack vectors and threat modeling
+Privacy Enhancing Tech and secure communications tools
+A deep understanding of least one smart contract coding language, with a drive to learn additional ones, such as: Solidity, Michaelson, Ligo, SmartPy, Clarity
+
+Least Authority is an equal opportunity employer. We encourage people from all backgrounds to apply. We are committed to ensuring that our technology is made available and accessible to everyone. All employment decisions are made without regard to race, color, national origin, ancestry, sex, gender, gender identity or expression, sexual orientation, age, genetic information, religion, disability, medical condition, pregnancy, marital status, family status, veteran status, or any other characteristic protected by law.Come change the world (for real).
+We believe the future of commerce is user-owned. It's a future where suppliers, creators, workers, & freelancers own more of the upside of the value they create & pay less to intermediaries.
+Say 👋 to Village. We’re building some of the world's most sophisticated L1 blockchain infra & L2 protocols to create a platform for user-owned commerce that'll shape how people buy and sell goods and services on the internet for years to come.We make it easy for any business or supplier group to build and grow user-owned networks. You can think of user-owned networks as fairer and more efficient marketplace platforms without intermediaries. Instead, they use web3 tech so users can transact directly, grow exponentially, and, actually own the platforms they do business on based on the value they contribute.
+This is a big deal! User-ownership will bring about a step-change improvement in efficiency that hasn’t been seen since the early days of the internet.
+Our founding team has built SaaS, crypto, eCommerce and marketplace companies, and is backed by some of the world’s top crypto & venture investors.
+We need the best builders in the world to come show us what's possible.
+
+About the Role
+You will be one of the first five employees at a mission-driven and fast-growing startup. You are ambitious and hard-working, but you (like us!) also believe in putting people first and having a huge amount of fun while you do your job 😁.  
+You are a senior engineer with hardcore blockchain development experience, ideally in the Ethereum ecosystem. You also have experience full-stack. You are capable of thought leadership and high-quality code output. You are autonomous and are excited about taking on big, ambiguous problem spaces. You believe in the power of blockchain and Village’s mission to build a user-owned economy, but you also maintain a healthy skepticism of only building web3 for web3’s sake alone. 
+You’re more than just your code, though. You love building a culture where people love to work! (❤️) As one of the first five employees, you’ll be integral to the long-term culture of Village and future employees will rely on you as a role model. You’ll be empathetic, hard-working, passionate, good at giving constructive feedback and, of course, having lots of fun.
+What you’ll do
+Lead Village's Solidity development for our L1 and L2 blockchain solutions
+Support the broader team with ideas and contributions across the whole stack
+Design and implement scalable smart contracts in Solidity for on-chain user-owned networks
+Develop scalable data pipelines
+Ensure high production reliability of our applications by proper tests, logging, and alerting
+Guide the early Village technical architecture decisions that will resonate throughout the global economy for years to come 🤯 
+Manage and mentor junior engineers 
+Partner with cross-functional teams, including product, design, and business development to build products and experiences people can’t live without
+Establish the Village engineering culture–live the mission and set a standard 
+Help the product team craft the team vision, strategy, and roadmap while proposing innovative solutions, as well as understanding technical limitations
+Drive key business metrics 
+Have an inordinate amount of fun
+What you’ll bring
+8+ years of development experience across frontend, backend, and Solidity
+2+ years advanced experience with Solidity and general smart contract development in the Ethereum ecosystem 
+Successful track record of building and shipping innovative products 
+Bonus: management, leadership, and hiring experience 
+Perks
+Unlimited paid time off
+Medical, dental, and vision
+Early and generous employee stock option & token plan
+$100 monthly health and wellness benefit 
+401(k) plan
+Work from home flexibility
+Paid family leave
+Apple products
+Drop us a line!We encourage you to drop us a line even if you feel over- or under-qualified. We want to find the best people to help us build this Village no matter who they are. We have a lot of different areas of responsibility and we are always happy to brainstorm with you about what would be the best fit. 
+Village Labs is an equal opportunity employer. We believe everyone should feel great about being their authentic selves at Village–this is the only way to do our best work! We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. We believe that great employees come from diverse backgrounds.Lab Eleven is an Australian-based web3 company. We are building a small, elite team of Solana engineers and looking for exceptional people at all levels to join us. We embrace the open-source community, we don’t shy away from complex problems and we make sure to have fun along the way.
+💻 What you will do
+
+Work on exciting web3 and blockchain projects
+Design, develop, test and deploy smart contracts and backend services for Solana blockchain
+Build secure, performant and scalable infrastructure and applications
+Contribute to open-source projects and communities
+✅ What we expect
+
+Strong, hands-on development skills; Rust 🦀 and TypeScript are preferred
+Details-oriented and problem solver
+Self-motivated and productive, with a sense of ownership
+Proven passion and knowledge of web3 and blockchain technologies, e.g. Solana, Defi, etc.
+Australian resident 🇦🇺
+🤩 Perks
+
+Work on the latest blockchain projects here in Australia and globally
+Permanent employee position with a competitive salary
+Share in the company's success with our profit-sharing scheme
+Annual tech allowance for you to spend on your choice of devices and toys
+Intensive training and mentoring in blockchain / Solana technologies
+Work from anywhere within Australia
+🤝 Please Provide
+
+The solution for https://github.com/labeleven-dev/memoApplications that do not have the solution will not be considered
+
+An updated resume / CV
+Links to GitHub, Twitter, Linkedin or any other relevant accountSmart Contract Engineer in BGD
+Remote
+Full-time: Mid-Senior level
+BGD (Bored Ghosts Developing) is a Web3 and DeFi development initiative, with roots in the Aave protocol ecosystem and currently being one of the main technical contributors there.
+You will be working with people that did and is doing awesome things like:
+Participated in the creation of the Aave protocol, and all the other systems surrounding it.
+Migrating Aave V2 Ethereum to Aave v3 Ethereum
+Governance proposals’ verification tooling.
+Migration aBPT/stkABPT to Balancer v2.
+Rescue of funds locked on Aave ecosystem contracts.
+Creating Aave Governance v3.
+We are looking for an experienced Smart Contract Engineer to join our team and help build-out and scale one of the main DeFi systems (Aave), together with any other idea that BGD comes up with.
+The ideal candidate should have experience with the Ethereum (or any other EVM-based) smart contracts platform, ideally having participated on a production-grade DeFi application on the Solidity side. The ideal candidate is excited to help build a quality foundation, drive key decisions early on, and set up the product for long term success.
+Responsibilities and Duties:
+Design/implement secure and reliable apps in Solidity.
+Writing good documentation and giving development support to a DeFi community.
+Internal quality control and audit of smart contracts.
+Work with smart contract engineers to design and implement a functional user-friendly experience with Web3 technologies.
+Collaborate with frontend, backend, and other smart contract engineers.
+Help identify friction points and implement solutions to improve potential bottlenecks in the development process.
+Requirements:
+1.5+ years of relevant experience as a Smart Contract Developer (Solidity or Vyper).
+Passion for the DeFi and Web3 fields.
+Knowledge and experience of test-driven development.
+Familiar with the common Smart Contract vulnerabilities.
+Experience with web3.js or ethers.js, and developing DeFi applications.
+Exceptional strategic thinking and creative problem-solving skills with a strong analytical mindset.
+A deep understanding of the architecture of modern Web3 applications and backends.
+English language fluency.
+Able to make informed decisions that require a quick turnaround.
+Able to quickly understand and synthesize complex and nuanced technical information into big-picture, actionable insights.
+Benefits:
+Salary range: €100-150k per year
+Remote work and flexible working hours
+20 days paid holiday
+Front seat into position on working with decentralized financial technologies
+Guaranteed innovation-driven work environment
+If you are interested in this offer, please send us your CV and a cover letter to [email protected]
+BGD Labs focuses on Technology, Blockchains, and Fin Tech. Their company has offices in Dubai and Europe. They have a small team that's between 1-10 employees.
+You can view their website at https://bgdlabs.com/Developed by an ambitious team of poker lovers, CoinPoker is a revolutionary blockchain technology-based poker platform that uses stablecoin as the main ingame currency and CHP as bonusing fuel, offering all benefits of the crypto world alongside.  Job Summary:  Coinpoker is seeking an experienced Ethereum Smart Contract Solidity Developer who can architect, design and integrate web3 features and functions into existing desktop and mobile applications. You will work in an Agile development environment and produce robust deliverables on aggressive timelines. To be successful in this role, you should demonstrate passion for blockchain, have strong software engineering and development skills and the ability to communicate well.   Responsibilities:
+  
+Working with CTO and product team to define new web3 features/functions.
+Architecting, designing and implementing smart contracts.
+Deploying and testing smart contracts on an Ethereum testnet and deploying production ready contracts on Ethereum mainnet.
+Collaborating closely with development team to integrate and test web3 features into existing platform.  
+ Job Requirements:  
+Bachelor’s/Master’s degree in Engineering, Computer Science (or equivalent experience)
+Experience in integrating smart contracts to an application frontend
+Must have experience in Smart Contracts and Solidity
+Comprehensive knowledge of other chains is a plus 
+Experience in De-Fi primitives including tokens and staking
+Fluency in verbal and written English
+Prolific ability to adapt to changes
+Ability to work within stringent deadlines
+  Compensation: Compensation will be very competitive. Paid in USDT/USDC plus vested CHP tokens.Our goal at Bridge network is to build a cross-chain super dApp to enable seamless transactions between blockchain ecosystems. The bridge tool kit is made up of 6 main tools; a NFT bridge, a token bridge, a cross-chain trading platform, cross-chain farming platform, a multi-chain explorer and a token wrapper for any existing token to go cross-cain. The goal of building a cross-chain hub is to provide a frictionless and trustless environment for users to transact without the hassle of switching between protocols to complete what should be simple transactions. Bridge Network introduces a unique experience to the multichain world with a scalable, secure and robust infrastructure to simplify the complexities behind moving cross-chain.
+Responsibilities:
+Establish a clean and efficient development, test, and production environment.
+Deliver secure, high quality smart contracts in Solidity.
+Write and implement test suites covering the full range of code functionality.
+Collaborate with the team to define architecture, quality standards, and best practices.
+Diligently document all aspects of open-source contributions.
+Create unique solutions to dApp-specific user experience challenges.
+Build cutting-edge scalability solutions across all EVM chains.
+Requirements
+The ideal candidate will have:
+2+ years of experience developing in Solidity or in Web3 - you MUST be able to demonstrate this with public repositories or contracts. No other applications will be considered.
+A passion for cryptocurrencies and other peer-to-peer technologies.
+Benefits:
+Attractive base salary
+Equity in token allocation
+Option to work from the beautifil island of Barbados
+Work from anywhere in the world
+Work with a diverse culture and likeminded crypto enthusiasts
+Bridge Network focuses on Blockchain / Cryptocurrency. Their company has offices in India, Russia, Singapore, United States, and Nigeria. They have a small team that's between 11-50 employees.
+You can view their website at https://www.bridgenetwork.info/We are looking for an ambitious full-stack web3 dApp engineer who have full stack development experience to join our team.
+We are looking for:
+Passionate about DeFi,
+Has full-stack development experience on EVM based project, from User interface to smart contract development, and middleware or database related development.
+Serious about system security and always think from an architect's point of view,
+Bonus if you also have deep DeFi user experience and insight,
+Develop high-quality React applications that are highly reliable and maintainable
+Collaborate with designers and other developers to ship products on schedule
+Collaborate with internal stakeholders to build dashboards for monitoring key application metrics
+Working at Earning.Farm:
+Fast moving, challenging unique business problems,
+Working with a combination of engineers and experts,
+Full time & Remote, high responsibilities,
+Contribution to open source and involved in a growing development DAO
+Earning.Farm focuses on Blockchain / Cryptocurrency. Their company has offices in Singapore. They have a small team that's between 1-10 employees.
+You can view their website at https://earning.farmNFTBooking project is working on developing the first NFT marketplace platform dedicated entirely to tourism where hotels, travel companies, and accommodation owners can sell their services.
+Our first goal from now is to release an NFT collection that will grant benefits like stand-alone passive income and platform related, plus utilities like an airport lounge and private concierge for travellers.
+About the open positions:
+We strongly suggest to have enough capital to cover your expenses for about 45 days. Time needed for releasing the collection and start paying everybody; Benefits listed below.
+ROLE NEEDED:
+Smart contract developer 40+ hours a week
+What do you receive as a Smart contract developer:
+Contract
+wage TBD
+company shares
+NFts and whitelists
+cashout from collection (paid in real time)
+access to trade show and conferences (fly ticket and room paid)
+Remote office available (room in Villa in Bali available for free)
+BE AWARE
+All of this begins from after the first collection sells out.
+NFTBooking focuses on Online Travel, Travel & Tourism, and Blockchain / Cryptocurrency. Their company has offices in Canada, Norway, Italy, Panama, and El Salvador. They have a small team that's between 11-50 employees.
+You can view their website at https://book.nftbooking.eu/Chain is looking for a Smart Contract Auditor to join our Blockchain Team.
+ 
+Chain is an award-winning technology company that specializes in blockchain related services and software with production ready products in the market.
+ 
+The Security Smart Contract Auditor will review security of the various smart contracts and protocols within the DeFi ecosystem as well as provide insights in establishing best practices for security culture within the industry. This role will contribute to how security is defined when building decentralized software.About MyConstant
+We are a multi-market P2P investment platform headquartered in the US. We offer a range of investment products including crypto-backed lending, consumer and business lending, and exchange financing, to suit every financial goal and risk appetite. We also help crypto-holders unlock the value of their crypto without needing to sell.
+As one of the fastest-growing P2P investment platforms in the US, we’ve matched over $35M in loan volume since its launch in 2019. We’ve garnered 250+ five-star Trustpilot reviews and were featured in Forbes, Entrepreneur, and Inc Magazine.
+The Job
+Our new and upcoming products:
+Lending NFT: Myconstant will be a place where users can get a loan on their NFTs and offer loans to borrowers against their NFTs. In other words, users can use their NFTs as collateral to get loans from other users on the decentralized and peer-to-peer system.
+NFT Gaming marketplace: where we are aiming to be the single portal/marketplace to sell the most distinguished items from best performing P2E projects. Additionally, the users will have the option to only pay 80% of the price upfront and convert the 20% rest to installments with 0% interest for 30 days.
+As long as you're curious about new technologies, always learning and improving yourself, and interested in solving hard problems — Myconstant is your home. You'll have a lot of fun being here and enjoy being part of our teamwork-based culture and family-like atmosphere.
+✅ The scope of work includes:
+Participate in blockchain development projects (DeFi applications and new NFT project)
+Research, develop and maintain the smart contract components of our stack.
+Discover, develop and implement best practices in our smart contract design and architecture.
+Help build, test, and implement smart contracts.
+Participate in the research and development of our new products and cooperate with engineering teams to implement software interfaces and functions.
+✅ The ideal candidate would have these experiences and skills:
+At least 1-year experience in developing blockchain Dapp, smart contract, Web3.
+Prior experience in Solidity or other smart contract programming languages.
+Previous experience working with smart contracts and blockchain design paradigms.
+Experience using tools for smart contract development such as truffle, metamask, web3js ...
+Nice to have:
+Experience in Defi project development (preferred)
+Familiarity with peer to peer networks is a plus
+💯 Team Culture Requirements
+Willingness to constantly learn new tools, and technologies.
+You must be a fast and thorough learner, capable of systematically inquiring into new technologies and their foundations. Think and rethink, from the ground up.
+Able to constantly challenge yourself to stay on top of your game and upgrade yourself every day.
+🔥 Benefits
+Competitive salary package
+Dynamic working environment
+Daily light breakfast, healthy lunch & hearty dinner (if any)
+Unlimited sick leave, official holidays, and at least 12 paid days off per year
+Full medical and dental coverage for you and 50% for your family
+Powerful laptop, monitor, standing desk, and any accessories you need to do your best work
+Free access to a wide variety of online courses
+Autonomous focuses on Enterprise Software, Business Productivity, Office Space, Hardware + Software, and Furniture. Their company has offices in New York City, California, United States, and Ho Chi Minh City. They have a mid-size team that's between 51-200 employees.
+You can view their website at http://autonomous.ai or find them on Twitter, Facebook, LinkedIn, and Product Hunt.JOB TYPE: Contract to Hire Position (no agencies/C2C - see notes below)
+LOCATION: Remote  United States and Canada only (TimeZone:Work anytime)
+HOURLY RANGE: Our client is looking to pay $90-$120/hr
+ESTIMATED DURATION: 40hr/week - Long-term
+THE OPPORTUNITY
+Requirements
+*Please attach resume
+*Contract to hire or direct hire only 
+**US and Canada only
+What you’ll be working on
+BUILDING THE POSSIBILITIES. 
+Our client is looking for a Lead Smart Contract Engineer in the Blockchain Division to be part of one of our multidisciplinary teams where you’ll work closely with designers, product managers, data analysts, and other engineering teams. You’ll be a creative contributor to our processes and decision-making so They can build and expand our blockchain infrastructure to ensure the scalability and availability of the entire platform. They’re constantly growing and forming new teams. Sound good to you? Join us.
+WHAT YOU’LL DO AS A LEAD SMART CONTRACT ENGINEER:
+Design, develop and improve the company’s dApps and blockchain infrastructure for different products and services to tap into. 
+Contribute to agility and scalability of not just the codes but the team and engineering practices. The blockchain platform needs to efficiently support other engineering teams who roll out products and they are always looking for ways to improve our best-practices, streamline our development process, and improve team synergy! 
+Research and stay current with the state-of-art of blockchain technologies.
+Review codes and merge requests by junior developers, offering constructive feedback to the team. 
+Ensure the wellness of our production dApps and related services, reporting bugs and issues immediately upon discovery and always look for ways to optimize tech stack and improve security.
+Be active and connected in the bigger blockchain community (in a responsible way) and bring new solutions and ideas to the team!
+Define security standards and procedures; educate other team members.
+Provide technical leadership in the area of blockchain technology.
+They’re constantly growing and forming new teams; you will have the opportunity to lead as an engineer or transition into a manager role. 
+WHAT SKILLS YOU WILL USE:
+3+ years of smart contract development experience in Solidity (experience in other smart contract languages is an asset). 
+Strong knowledge of design principles both specific to smart contract (like factory pattern, proxy design) or more generic like OOP, functional programming, REST. 
+Experience in Solidity, OpenZeppelin standards, Web3, Truffle/Hardhat, the Graph, NodeJS, AWS, MySQL/Postgres, MongoDB/NoSQL. 
+Experience in leading a team in completion of projects with agile methodologies.
+Experience in smart contract auditing is a strong asset.
+Familiar with cryptography and encryption methods. Experience with enterprise level key management solutions or projects is a strong asset.
+Ability to grow yourself and other engineers through code reviews, design reviews, and screenshare/peer debugging.
+This position is remote except that it may not be performed in Colorado.
+LI-AA
+WHO ARE OUR CLIENT A GOOD FIT FOR? 
+They love working with talented people but more than that, they seek out compassionate co-workers with a collaborative spirit. Their work moves quickly and They’re great at coming together to find creative solutions to some of tech’s most interesting problems. If that sounds good to you, join us. 
+Apply Now!At Syndica, big things happen. Every day, we’re translating vision into reality by tackling new and exciting challenges head-on. This is a breakthrough stage in our company, and you’ll experience firsthand the infectious enthusiasm of our employees and leadership team. You’ll have the opportunity to learn new skills, grow your career, and work with the smartest, most passionate people in crypto.
+This role will have the primary accountability of designing, implementing, and operating Solidity smart contracts on Solana... Yes, you read that right! Have you looked into Neon EVM?  Solidity smart contract development experience is a necessity! The team operates with a “run what you write” philosophy and each engineer is responsible for deploying and operating the code they write.
+Responsibilities
+Drive high-level decisions about architecture and features
+Design, implement, test, and audit protocol upgrades and additions
+Collaborate with full-stack and front-end developers to bring products to life
+Adopt code quality processes to ensure the readability, best practices and maintainability of solidity smart contracts
+Test smart contracts in  and  environments
+Collaborate with other engineers to implement operational solutions while defining and adhering to industry best practices
+Qualifications
+Proven experience interacting with the EVM and writing high-quality, well-tested Solidity
+Deep understanding of EVM, Solidity, and JavaScript
+Knowledgeable about smart contract security and best practices
+Experienced user of Hardhat/Truffle and Ethers.js/web3.js
+Experienced user of Git version control system
+Passionate about DeFi and knowledgeable about industry trends
+Understanding of tokenomics and governance design
+Experience working in a highly distributed company is a plus
+Align a portion of your day with the business hours of Central Time Zone - UTC -6
+Working knowledge of information security issues
+Systematic problem-solving approach, combined with a strong sense of ownership and drive
+Firm grasp of at least one modern programming language, beyond advanced scripting (Shell or Python)
+Experience writing automation tools & eagerness to "automate all the things"
+What does success in this role look like?
+In three months, you have become our go-to Solidity developer working on important smart contracts/programs delivering quality and thoroughly tested code. You’ll have taken on independent code review responsibilities and are collaborating on the design of new instructions/upgrades.
+In six months, you have earned the trust of the team and are delivering tasks through the entire SDLC, from design through development with minimal guidance, and are helping to effectively mentor new engineers joining the team
+In twelve months, you have established a cadence of predictable, on-time delivery without cutting cornersBurnt Finance is building the decentralized future for Web3 assets. For the first time, users are able to auction, mint, and trade NFTs in an entirely permissionless ecosystem. We are proud to be supported by amazing investors such as Animoca Brands, Multicoin Capital, Alameda Research, and so many more. If you’re looking to join a fast paced, problem solving environment in the center of blockchain infrastructure, NFTs, and decentralized applications, please apply!You will help build groundbreaking decentralized applications from the ground up, which will become a critical piece of architecture for the next stage of Web3 and crypto adoption.
+Responsibilities:
+
+Develop decentralized web3 infrastructure and applications
+Support front-end applications and user experience
+Participate in and own choices of engineering methodologies, tools and organization
+Work autonomously within a high-performing team
+
+Requirements:
+
+4+ years of professional experience
+Proven ability to write high-quality, well-tested code
+Highly autonomous, strong communication and collaboration within team
+Understanding of API design & implementation
+Good understanding of git and continuous integration tools
+Ability to take responsibility for projects and the willingness to learn and grow professionally in a team environment
+
+Our Tech Stack:
+
+
+Web: HTML, Javascript, Typescript, React, NextJS, CSS, Sass, Web3/Cosmjs
+
+Backend: NodeJS, Typescript, GraphQL, Postgres
+
+Web3 Platform: Cosmos-SDK (Golang), CosmWasm (Rust)
+
+Infrastructure: AWS
+As we are still a lean engineering team, we are looking for engineers willing to take on multiple roles. When applying, please include which of the following skillsets you believe you would be able to bring to the table most rapidly:1. Typescript + React2. Smart contract development3. Web3/Cosmjs4. OtherBenefits of working at Burnt Finance include competitive compensation, unlimited PTO, medical, dental, and vision insurance, company off-sites and more!Burnt Finance is proud to foster an inclusive environment that is free from discrimination. We strongly believe in order to build the best products, we need a diversity of perspectives and backgrounds. This leads to a more delightful experience for our users and team members. We value listening to every voice and we encourage everyone to come be a part of building a company and products we love.Chain is looking for a Smart Contract Auditor to join our Blockchain Team.
+ 
+Chain is an award-winning technology company that specializes in blockchain related services and software with production ready products in the market.
+ 
+The Security Smart Contract Auditor will review security of the various smart contracts and protocols within the DeFi ecosystem as well as provide insights in establishing best practices for security culture within the industry. This role will contribute to how security is defined when building decentralized software.We seek a Solidity programmer with significant experience in auditing smart contracts. The successful applicant will bring a strong understanding of common contract exploits and how to protect against them, particularly in relation to ERC-20 tokens, upgradeable proxies, and role-based access control mechanisms.
+SW7 Group focuses on Finance Technology. Their company has offices in Hong Kong and London. They have a small team that's between 11-50 employees.
+You can view their website at http://www.sw7group.comParity Technologies builds core infrastructure for blockchains and Web 3.0 technologies. We strive to write the fastest, lightest, and safest core technology in Blockchain and write lots of open-source code.Parity works in a very flat hierarchy with lots of autonomy and high levels of personal responsibility, and we try to mimic an open-source workflow in much of what we do. We have an older article on our blog about our development practices which you may want to read.
+You will be joining the Smart Contracts team, which builds core products like the ink! smart contract language or the contracts module in Substrate FRAME, but also dApps and frontend libraries to support the core projects and facilitate adoption.The role is about developing and maintaining end-to-end tooling in Typescript for our users - developers building smart contracts or smart contract chains. Our stack consists of Typescript, React, React-Redux, Rust, Docker, Cypress, Netlify, AWS, GCP
+About you:
+Make sure our browser-based smart contract tooling is up to date with the latest changes in Substrate and ink! and on track with the product roadmap
+Collaborate with the DevOps team to ensure the availability and scaling of our apps
+Actively participate in planning, suggest and drive new features and projects by identifying and interviewing stakeholders, outlining project requirements and coordinating with other teams on delivering code.
+Able to deliver without any supervisory role giving you precise step-by-step instructions.
+Adhere to software engineering best practices and approaches and apply them in code reviews
+Technical requirements
+Well versed with Typescript on the frontend and backend
+Complex state management with React
+Production experience with Docker and cloud services providers
+Good knowledge of the blockchain space is a plus, but not a must!
+Benefits 
+Working at Parity means focusing on the stuff that counts: building the most cutting-edge technology for the future web. Our teams enjoy a high degree of trust, freedom, and autonomy to achieve that goal.
+You will understand blockchain technology and business development and have a skill set transferable to many jobs.
+Because we value initiative and learning, we've defined a generous personal budget to attend conferences or skills courses of your choosing. We think you know what's best for you!
+Parity is a diverse company with people from various countries, and we will support you with German or English language courses where needed.
+Not all of us who collaborate work in the same place. Bringing the team together is something we value greatly, so we regularly go on team retreats.
+ 
+Not a perfect match to our requirements? We're happy to receive your application anyways and hear how you think you can help us achieve our mission.
+To see how we use your data please see our Applicant Notice.Bunzz is a Smart Contract as a Service in the Web3 space.With its library of smart contract modules, developing a DApp is easier than any other service.And we plan to implement tokenomics, where incentives will be distributed to module developers. This groundbreaking feature has the potential to attract countless valuable smart contracts to Bunzz and grow it into a Github-like service in the Web3 space.And we're looking for a Product Manager.The requirements are as follows
+
+Experience working on at least 5 DApp developments
+At least 3 years of engineering experience
+Must be able to write solidity
+Must be able to speak English
+
+Any race, gender, and region of residence is acceptable.
+
+Bunzz team is waiting for your application.Tokemak (tokemak.xyz) is a novel Web3 protocol designed to generate deep, sustainable liquidity for DeFi and future tokenized applications that will arise throughout the growth and evolution of Web3.Job Description:
+We are looking for a Web3 Full-Stack developer who will be responsible for designing, implementing, and supporting Tokemak’s public API and SDK. Your primary responsibility will be to spearhead the development of Tokemak’s public API and documentation and to ensure we have a world class developer experience for users of our API.
+Our ideal candidate is:
+Security minded
+A team player
+Adaptable/flexible: enjoys doing work that requires frequent shifts in direction
+Achievement-oriented: enjoys taking on challenges, even if they might fail
+Innovative: prefers working in unconventional ways or on tasks that require creativity
+Independent, organized, and accountable
+Responsibilities:
+Design, develop, maintain support and document the Tokemak API and SDK
+Brainstorm and help evaluate applications for new tools and technologies as they continually evolve
+Maintain and extend current API and be responsible for integration and business logic
+Be involved in the global blockchain community—work on implementing and integrating the latest improvement proposals
+Manage developer relations and developer support for projects that use the Tokemak API
+Build comprehensive documentation, examples and tutorials for the Tokemak API
+Skills:
+Strong software development background (5+ years of experience)
+Experience working with open-source projects
+Strong knowledge of common algorithms and data structures
+Experience with web3
+Strong API and SDK design experience
+Extensive experience with Node.js, JavaScript, and other modern web development technologies
+Familiarity with Solidity or RustZama's mission is to safeguard privacy by making the internet encrypted end-to-end. Zama’s products help web2 and web3 developers build private-by-design applications using homomorphic encryption (FHE), without having to learn cryptography.Zama was founded by Pascal Paillier, a pioneer in FHE, and Rand Hindi, a serial privacy entrepreneur, and has a team of veteran cryptographers, including Nigel Smart, Marc Joye, Ilaria Chillotti and others.As part of our efforts bringing privacy to web3, we are building a homomorphic blockchain protocol that enables private smart contracts, where computation happens on-chain on encrypted shared states. **Role Description**We’re looking for a Blockchain Engineer with a strong background in Layer 1 or Layer 2 blockchain protocols, capable of designing and implementing new PoS protocols that are taylored to the particularities of using homomorphic encryption. You will be working alongside a team of cryptographers, protocol designers, and full-stack engineers to design, implement and launch Zama’s homomorphic blockchain.Your job as a Blockchain Engineer will be to:- Develop and maintain the Zama blockchain.- Take part in architecture discussions.- Develop our blockchain ecosystem and work closely with partnering protocols.He / She / They should have:- Strong experience building blockchain protocols- Strong understanding of various consensus schemes (PoW, PoS, ..)- Passionate about open source and blockchain- Be a friendly team player- Be obsessed with making things that actually work for usersWe are a full remote company but you should ideally be in an European time zone.Our process is described in detail here: https://www.zama.ai/post/how-we-hire-at-zamaZama values and promotes diversity. We give everyone a fair chance to be evaluated on their mix of professional, academic, and personal skills. Our aim is to make the hiring process as pleasant, stress-free, and friendly as possible, even if the process is longer and more involved than you might find elsewhere.Popcorn represents a new paradigm for decentralized finance, where yield generating products simultaneously create real-world impact.
+(https://popcorn.network | https://medium.com/popcorndao/)
+Roadmap
+The roadmap in the immediate future includes launching innovative yield optimization products along with our beneficiary governance and grant election platforms (it’s something like Gitcoin where token holders vote periodically for non-profits to receive the fees generated from our products. See our whitepaper for details). Please check out our public roadmap to see what we'll be focusing on in the coming months:
+(https://popcorn-network.notion.site/50bbf6edecc9400c80cbed5e9871f082?v=1c2f619e31e34bf8b9607d1fc657696a)
+Role Responsibilities
+
+Design, build, and maintain efficient, reusable, and reliable code
+Work closely alongside product, UX/UI and smart contract engineers and development team to design and implement new product features
+Contribute to the highly efficient agile development process
+Ensure the technical feasibility of UI/UX designs and assure that all user input is validated before submitting to backend services
+Closely collaborate with the CTO and the product manager in order to deliver in an agile and iterative manner
+
+Who are we looking for
+
+Several years of experience in software design and development, with shipped websites/products to show
+Experience operating in a leadership capacity within an engineering team
+Commercial experience writing high quality, maintainable and tested JavaScript code
+Proficient understanding of Git
+Advanced knowledge of Javascript, HTML and CSS
+Strong JS animation skills a plus
+Experience with Tailwind a plus
+A deep understanding of adaptive design
+Experience working in an agile environment
+Experience in Web3/Crypto is a plus
+Native-level fluency in English (spoken and written)
+Excellent communication skills
+Someone willing to mentor team members
+We love TypeScript, and we hope you do too!
+Able to maintain a calm and focused attitude under pressure and re-orient quickly in changing environments
+A desire to learn and grow
+
+What Popcorn Offers
+
+Working for a rapidly expanding global distributed network / protocol
+Complete immersion into DAOs and Web3
+Opportunities to further learn about Web3, NFTs, and Crypto
+Excellent compensation packages and vacation time
+Challenges, space for creativity and taking ownership
+If you feel like you would be a good fit for the role, please send an email to [email protected] with the following:
+
+Your GitHub page and/or your personal website
+A cover letter with an introduction about you and why you think Popcorn is right for you.
+
+At Popcorn, we strive to create an inclusive environment that empowers our employees. We believe that our products and services benefit from our diverse backgrounds and experiences and are proud to be an equal opportunity employer: all qualified applicants are considered for positions regardless of race, ethnic origin, age, religion or belief, marital status, gender identification, sexual orientation, or physical ability.COMPANY
+At 0x Labs, our mission is to create a tokenized world where all value can flow freely. We’re a mission-driven and diverse team composed of world class talent from Coinbase, Google, Meta, Bitso, Citi, Spotify and other top companies. We are a remote-first and fully distributed company, with team members located across all of the continents besides Antarctica. As early pioneers in the space, we’ve made significant technical contributions to various Ethereum standards over the years; fun fact - our team helped establish the NFT token standard (ERC721).
+In joining us, you'll take part in transforming the way that value is exchanged on a global scale. We're passionate about open-source software and decentralized technology's potential to act as an equalizing force in the world, and our technology is deployed by a wide array of projects at the forefront of internet and economic advancement.
+Founded in 2017, 0x Labs created and now partakes in the development of 0x protocol: the open-source, global backbone for decentralized exchange. Alongside the core protocol, we also build and maintain products and service offerings include Matcha, the search engine for tokens and 0x API, the endpoint for multi-chain aggregated liquidity . All of these offerings allow 0x Labs to continue marching towards our vision of building a tokenized world where all value can flow freely at the best prices and with the lowest transaction costs. This way, we can help businesses eliminate the complexity of accessing decentralized markets across all layers of the Web3 exchange stack and have more time to focus on what matters most: their product. 
+0x currently supports 7 major blockchains: Ethereum, Polygon, Fantom, Avalanche, Optimism, BNB Chain, and Celo, and the 0x ecosystem has been rapidly expanding. With integrations across all of the top wallets and apps, including MetaMask, Coinbase Wallet and Coinbase NFT, Polygon Wallet, Brave, Matcha, dYdX, Zapper, Zerion, and Shapeshift, 0x is fast becoming the trusted standard for all decentralized exchange.
+Our headquarters is in San Francisco, with an office available for anyone on the team to use at any time but we are a remote first company and will consider your application wherever you call home.
+YOU’LL BE WORKING CLOSELY ALONGSIDE
+A small and growing team of world-class Solidity/protocol engineers from diverse technical backgrounds, including folks who’ve done notable solo open-source Ethereum development, co-authored the ERC-721 standard, and audited security-critical smart contracts across the industry
+RESPONSIBILITIES
+Our Blockchain engineers ensure 0x remains the most resilient, flexible, and future-proofed protocol for decentralized exchange
+Research and drive high-level decisions about 0x protocol architecture, incentive structures, and features
+Solve greenfield challenges around liquidity, market structures, governance, multi-chain interoperability, security, and mechanism design
+You’ll own our smart contract architecture and development. Spec, implement, test, and audit protocol upgrades and additions while partnering with projects across DeFi and providing web3 developers with access to our exchange infrastructure
+Keep attuned to the rapidly evolving blockchain/crypto space and introduce innovative functionality
+Collaborate cross-functionally with other teams, including engineering (internal and external), research, data science, product management, executive leadership, and recruiting
+Analyze transaction and usage statistics to identify and prioritize areas for improvement
+REQUIREMENTS
+Experience writing high-quality, well-tested Solidity
+Knowledge of the EVM, DeFi protocols, and gas optimization
+Strong communication, ownership, and collaboration skills
+The ability to learn and adapt to a rapidly evolving tech stack and industry
+Exhibit the core values that drive our mission at 0x: do the right thing, consistently ship, and focus on long-term impact
+PREFERRED
+Knowledge of market structures and exchange-related concepts
+BENEFITS
+Competitive salary and equity with token-based perks
+Comprehensive insurance (medical/dental/vision/life/disability) — 100% covered for you and dependents
+401k, HSA, and FSA
+Monthly mobile phone bill, wellness, and pre-tax transportation expense
+Covered mental health benefits (included professional therapy sessions)
+Remote first: flexible hours, liberal work-from-home policy, and a supportive remote environment
+Lunch reimbursement for all employees across the globe!
+Stipend for your ideal remote / WFH set-up: laptop, headphones, and any other work gear you may need
+12-week paid parental leave
+Great office located in Soma/East Cut, SF
+Unlimited vacation: Take time when you need it (and we really mean it)
+Multiple annual in-person team meet-ups around the globe
+0x Labs and its associated entities (0x) are dedicated to fostering diversity, inclusion, and belonging in its teams and workforce, and are proud to be equal opportunity employers. 0x does not make employment or hiring decisions on the basis of race, color, creed, religion, sex, sexual orientation, gender, gender expression or identity, age, disability, veteran status, marital status, pregnancy, citizenship, national origin, or any other basis that is protected by applicable local, state, or federal laws. 0x will also consider qualified applicants with arrest and conviction records in a way that is consistent with San Francisco’s Fair Chance Ordinance and similar local laws.
+0x focuses on Cryptocurrency and Blockchains. Their company has offices in San Francisco. They have a mid-size team that's between 51-200 employees.
+You can view their website at https://0x.org/ or find them on Twitter, Facebook, and LinkedIn.At Space and Time, we are solving Web3’s toughest data analytics challenges at planetary scale with decentralized, peer-to-peer technology. Dapps built on top of Space and Time become blockchain interoperable, crunching SQL + machine learning for Gaming/DeFi data as well as any decentralized applications that need verifiable tamperproofing, blockchain-security, or enterprise scale. We turn any major blockchain into a next-gen database by connecting off-chain storage with on-chain analytic insights. Our team is growing fast, backed by some of the top blockchain orgs and VCs.
+A career at Space and Time is lucrative, fast-paced, and very creative. We value you (and all your ideas) like family and we bring an endless supply of perks. This includes flexible workweeks + flexible vacation, add-on bonuses for hard work, we attend exciting events/conferences/parties, we’re headquartered on the beach near LA (but don’t mind you working remote), and most importantly- we provide analytics technology to the largest Dapps, DAOs, DeFi/DEXs, GameFi, NFT platforms, blockchain providers, enterprises, etc. We are committed to growing a diverse and welcoming team in a safe space to be yourself and learn from the most innovative minds in blockchain and data warehousing. Help us invent the first decentralized supercomputer!
+As a Sr. Smart Contract Engineer for our Web3/Blockchain/Oracles Engineering team, you will join highly skilled full stack engineers responsible for developing a dapp interoperability platform and backend to Web3. You will focus on hosted cloud analytics infrastructure for major blockchains, multichain or cross chain smart contract frameworks, tamperproof blockchain indexing techniques, proprietary zkSNARK-like proofing mechanisms. You will partner with internal and external teams to build and scale dapps on top of our data platform. This team is responsible for building the integrations between our decentralized data warehouse and major blockchains via oracle networks, which will also be used for query validation and network management. In addition, you’ll be defining Web3 analytics challenges that supporting teams will help solve. This role is vital to our organization and will report to exec leadership and senior engineering leadership. 
+Responsibilities:
+You will be developing innovative techniques to anchor data to blockchains via smart contracts as well as to index/read from blockchains via tamperproof RPC calls.
+Integrating our data platform with the web3 stack (MetaMask, Web.js, Hardhat, OpenZeppelin, Filecoin, Oracle Networks, multichain smart contracts, etc)
+Building tools, platforms and database integrations to turn a blockchain-secured data/analytics platform into a user-facing hosted cloud solution
+Codifying best practices for future reuse in the form of accessible, reusable patterns, templates, and code bases to facilitate meta data capturing and management
+Working with engineering leadership to define, prioritize, and ensure smooth deployments with other operational components
+Engaged with blockchain/Web3 trends
+Understand how data and analytics use cases across Web3 and major blockchains can be optimized 
+Skills & Qualifications
+Bachelor’s degree in computer science or related technical field. Masters or PhD a plus.
+Experience deploying production grade Smart Contracts for leading Web3 organizations
+Rock solid engineering fundamentals; any of the following: Javascript (React + Node), Solidity, Rust, Smart Contract dev, L1/L2 blockchain dev, Chainlink Oracles
+Knowledge of blockchain indexing, web3 stack, consensus mechanisms, etc
+Experience with rapid development cycles in a web-based environment
+Strong scripting and test automation knowledge
+Passionate about Web3, blockchain, decentralization, and a base understanding of how data/analytics plays into this
+Ability to engage senior business leaders and translate between the needs of the business and the demands of / capacities of technology
+What we offer
+Very competitive salaries
+Medical, dental and vision insurance, disability/life insurance
+401(k) Plan
+Aggressive bonus structure and/or Space and Time token allocations (similar to stock options)
+Very flexible PTO and paid holidays, and flexible workweek
+Very flexible remote work options
+A massive list of perks including discretionary add-on bonuses for hard work, attending exciting events/conferences/parties, we’re headquartered on the beach near LA (but don’t mind you working remote)
+Space and Time is an EOE and committed to building a diverse team
+Our Commitment to Diversity and Inclusion:
+At Space and Time, we are committed to fostering a diverse and inclusive culture where everyone can excel. We take great care to ensure that our hiring practices are inclusive and meet equal employment opportunity standards. Individuals looking for employment at Space and Time are considered without regard to age, color, disability, ethnicity, family or marital status, gender identity or expression, language, national origin, physical and mental ability, political affiliation, race, religion, sexual orientation, socio-economic status, veteran status, and other protected characteristics
+Space and Time focuses on Blockchain / Cryptocurrency. Their company has offices in Los Angeles. They have a small team that's between 11-50 employees.
+You can view their website at https://www.spaceandtime.dev/Responsibilities Participate in defi quantitative trading projects Participate in blockchain node maintenance or customization Participate in research and survey of blockchain forward-looking projects and fields Study the source code of blockchain node, such as geth Bachelor's degree in Computer Science, Engineering or similar experience Self-study / research in relevant projects will would be advantageous for this role, minor training & guidance will be provided. Prior experience in blockchain, finance, banking, consultancy or forex trading is an additional advantageous Have understanding of blockchain mempool design, storage design (MPT), virtual machine, consensus etc Interested and experienced in mainstream defi protocols, flashbots, etc. Good to have backend frameworks (express, nestjs, typeorm etc) skills. Familiar with Golang/Rust language etc Possess good learning ability, communication ability and analytical problem solving ability. What you can expect Fast-paced, result-oriented environment Exposure to the latest market insights Supportive team and open culture Competitive Remuneration Regular Team Bonding Energetic & Fun Environment Flexi Working Hour Overtime Meal & TransportCompany Description
+Delphi Digital is a research-driven firm dedicated to advancing the understanding and development of the growing digital asset market. Our foundations lie in producing institutional-grade research for some of crypto’s top funds, institutions, and investors. Through our consulting services, we’ve also worked closely with top projects in the space such as Aave, Axie Infinity, Compound, Thorchain, Synthetix, and many more to model, optimize and redesign their crypto-economics. At Delphi Labs, we leverage our hivemind of expertise to change the landscape of crypto by building with the highest quality teams, and incubating protocols that will shape the future.
+Our goal is to continue to drive the crypto asset space forward by investing both financial and intellectual capital into projects, participating actively to help shape the ecosystems we believe in. If this sounds like what you want to spend day and night thinking about, we’d love to chat.
+Location: Remotely from anywhere in the world
+Who you are
+An ideal team member is:
+An experienced smart contract developer with a passion for building the next generation of cryptocurrency protocols.
+An avid follower of new crypto developments including L2s / scaling technologies, cross-chain technologies, and new DeFi primitives.
+Comfortable working in a fast-paced environment.
+A collaborative problem-solver who is willing to help other team members.
+In their element when it comes to the creative and sometimes chaotic DAO environment.
+Responsibilities
+Design, code, test and deploy smart contracts.
+Review code written by other team members.
+Collaborate with auditors to ensure code quality standards and security.
+Assist with documentation and communications with the project communities.
+Basic Qualifications
+3+ years experience developing product grade applications with Rust and/or 1+ years of experience developing smart contracts on CosmWasm, Solidity, and/or Solana.
+A deep understanding of DeFi and crypto financial concepts.
+Preferred Qualifications
+Experience deploying complex smart contracts that have been used on mainnet of a top blockchain.
+A deep understanding of one or more smart contract platforms including CosmWasm, Ethereum Virtual Machine, and Solana. 
+Experience with implementing complex math in smart contracts.
+Experience with DeFi testing, security, or auditing.
+Compensation and Benefits
+Impact: You’ll work with some of the smartest people in the space and play a pivotal role in influencing the way some of the most popular crypto applications are built.. 
+Learning: You’ll benefit from the cumulative knowledge base of Delphi’s 60+ person team as well as our portfolio companies and extended network. The only limit to your rate of learning will be your own initiative.
+Uncapped potential: Delphi is constantly growing and you’ll have the ability to take on as much responsibility as you want, progressing with the organisation.
+Autonomy: While there are certain fixed responsibilities, you’ll be able to dictate how you spend your time based on where your interests lie.
+Flexible schedule: You’ll be able to work remotely and manage your own time. As long as your core responsibilities are met, your schedule is what you make of it. We strongly believe a proper balance between work and free time allows for creativity and innovation to thrive.
+Intellectual Freedom: You’ll have freedom to develop novel models and frameworks for innovative financial products and turn ideas, theories and research into implementations with real impact.
+Compensation: You’ll have a competitive salary ($120-150k+) + significant token upside in projects you work on.
+How to apply
+Along with your resume, submit any relevant links to smart contracts and/or cryptocurrency applications that you have developed.Edge & Node is a creative software development company working to build a vibrant, decentralized future. Founded by the initial team behind The Graph, Edge & Node is dedicated to the advancement of web3, a decentralized and fair internet where public data is available to all—an internet that enables its users to increase agency over their creations and their lives.
+Edge & Node’s initial product is The Graph, an indexing protocol for querying networks like Ethereum and IPFS, which ensures open data is always available and easy to access. The Graph is used by thousands of protocols and dapps including Uniswap, Livepeer, Aave, Decentraland, and more. Edge & Node also launched Everest, a decentralized registry with the mission to catalyze the shift to web3, facilitating community-driven curation of projects providing ongoing utility to the crypto space.
+To grow our Smart Contracts team, we are looking for an experienced, self-driven Senior Software Engineer interested in working on the Graph Network. Designed entirely by the team, it combines several crypto-economic mechanisms such as curation with bonding curves, staking, delegation, slashing, and rewards distribution. The team is responsible for keeping the network contracts safe and pushing the tech further to advance the space.
+What You’ll Be Doing
+Designing, coding, testing and deploying smart contracts of The Graph Network
+Reviewing code written by other team members
+Collaborating with auditors to ensure code quality standards and security
+Building back-end web services that interact with the Ethereum blockchain
+Writing scripts to automate monitoring and tracking in order to maintain the overall network health.
+Engaging our community by sharing our design decisions and document how the protocol works.
+What We Expect
+Experience in creating and maintaining low-level software systems and working on a constrained development environment
+An interest in the intersection of law, economic systems and software
+Attention to detail and a security-oriented mindset
+Comfortable with a scripting language for task automation, preferably Typescript or Python
+Have a collaborative, problem-solving attitude and be willing to help other team members
+We are looking for a Senior Software Engineer that is interested in building and getting deep into building blockchain applications.
+Knowledge about how a blockchain works, preferably Ethereum
+Solidity or Vyper experience
+Experience in working with external contributors and community members
+Has deployed a subgraph before or understands what a subgraph is
+Interested on Ethereum research - L2's, ETH 2, EIPS
+Experience with Ethers.js and GraphQL
+About The GraphRequired
+Strong competency with Rust. Familiarity with compiler, memory model, and language-specific syntax
+Ability to reason about and implement complex smart contract protocols.
+Understanding of common security vulnerabilities in blockchain and smart contract development (e.g account spoofing, math overflows)
+Good to Have
+Experience with Solana runtime, rust crates, typescript libraries, and associated APIs
+Previously written and deployed solana program to solana mainnet (if this is you, say so!!)
+Knowledge of Cryptocurrency/Blockchain
+If you see this, in your message say "hola"
+Basic financial markets or FinTech knowledge
+Friktion Labs focuses on Financial Services, Startups, Finance Technology, Fin Tech, and Blockchain / Cryptocurrency. Their company has offices in New York City, San Francisco, Austin, and Remote. They have a small team that's between 1-10 employees. To date, Friktion Labs has raised $5.5M of funding; their latest round was closed on January 2022.
+You can view their website at https://app.friktion.fi or find them on Twitter.
