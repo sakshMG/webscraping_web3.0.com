@@ -2,29 +2,29 @@ import requests
 from bs4 import BeautifulSoup
 
 companies = []
-urls = [
-    "https://web3.career/dev+remote-jobs",
-    "https://web3.career/",
-    "https://web3.career/?page=2",
-    "https://web3.career/?page=3",
-    "https://web3.career/?page=4",
-    "https://web3.career/?page=5",
-    "https://web3.career/?page=6",
-    "https://web3.career/?page=7",
-    "https://web3.career/?page=8",
-    "https://web3.career/?page=9",
-    "https://web3.career/?page=10",
-    "https://web3.career/?page=11",
-    "https://web3.career/?page=12",
-    "https://web3.career/?page=13",
-    "https://web3.career/?page=14",
-    "https://web3.career/?page=15",
-    "https://web3.career/?page=16",
-    "https://web3.career/?page=17",
-    "https://web3.career/?page=18",
-    "https://web3.career/?page=19",
-]
-
+# urls = [
+#     "https://web3.career/dev+remote-jobs",
+#     "https://web3.career/",
+#     "https://web3.career/?page=2",
+#     "https://web3.career/?page=3",
+#     "https://web3.career/?page=4",
+#     "https://web3.career/?page=5",
+#     "https://web3.career/?page=6",
+#     "https://web3.career/?page=7",
+#     "https://web3.career/?page=8",
+#     "https://web3.career/?page=9",
+#     "https://web3.career/?page=10",
+#     "https://web3.career/?page=11",
+#     "https://web3.career/?page=12",
+#     "https://web3.career/?page=13",
+#     "https://web3.career/?page=14",
+#     "https://web3.career/?page=15",
+#     "https://web3.career/?page=16",
+#     "https://web3.career/?page=17",
+#     "https://web3.career/?page=18",
+#     "https://web3.career/?page=19",
+# ]
+urls = ["https://web3.career/smart-contract-jobs"]
 
 for url in urls: 
 
@@ -50,6 +50,6 @@ for url in urls:
             if company not in companies:
                 companies.append(company)
 
-with open('data/web3_companies.txt', 'w') as file_handler:
+with open('data/web3_companies_smart_contracts.txt', 'w') as file_handler:
     for company in companies:
         file_handler.write("{}\n".format(company))
