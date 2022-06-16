@@ -32,3 +32,12 @@ python3 src/web3_scraping_companies.py
 ```
 python3 src/web3_scrapping_job_descriptions.py  
 ```
+
+### Help
+Reference when adding links and changing file names.  
+
+* Adding Links 
+![Image 1](imgs/url_list.png)
+
+* Changing file names 
+![Image 2](imgs/data_file.png)
