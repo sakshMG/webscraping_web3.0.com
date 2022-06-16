@@ -1,3 +1,6 @@
+Pocket Worlds
+Celestia Labs
+IOVLabs
 Braintrust
 Improbable
 Kraken Digital Asset Exchange
@@ -10,7 +13,6 @@ Hyphen
 Composable Finance
 Offchain Labs
 Infstones
-Pocket Worlds
 Space and Time
 Chain
 Amber
@@ -32,23 +34,32 @@ MomentRanks
 Ecosapiens
 Topl
 Popcorn
+Chainalysis
+Coin Metrics
+Bittrex
+PolySign & Standard Custody
+Oowlish Technology
+Solana Labs
+CoinList
+The Block
+Polygon
+Ava Labs
+LifeDeFied
+Genesis Global Trading, Inc.
 Here Not There
 Binance
 OKX
 GSR
 NEAR
 Orca
-Chainalysis
 Boson Protocol
 Techteams
 Waterfall
-Oowlish Technology
 Holder
 Serotonin
 Join our team
 Kronos Research
 Blockchain.com
-Genesis Global Trading, Inc.
 Galaxy Digital Services
 Aptos
 Request
@@ -65,14 +76,11 @@ Paradigm
 Figure
 capital.com
 Worldcoin
-Ava Labs
 Europa Labs
 GIANT Protocol
-Polygon
 CoinFlip
 nft42
 Ripple
-The Block
 QuillHash Technologies
 Chainlink Labs
 Subspace Labs
@@ -95,7 +103,6 @@ Prime Protocol
 Parity Technologies
 SeedInvest
 BCGDV
-CoinList
 Orderly Network
 Ponto Software, Inc.
 CoinGecko
@@ -104,7 +111,6 @@ Telcoin
 nft now
 NodeReal
 Movement Strategy
-IOVLabs
 Foxit Software
 Coins.ph
 UnitedMasters
@@ -211,7 +217,6 @@ Black Badge
 UMA
 Fitmint
 Careers at Paxful
-Celestia Labs
 HEXENS Cyber Security
 Metaplex Studios
 LemmaTree
@@ -225,14 +230,3 @@ Mobius
 Mojo
 AscendEX Careers
 BitMEX
-Seed Labs
-Ultra
-Uniswap Labs
-Digital Currency Group
-Gro
-Careers at Bitcoin.com
-Centre
-Horizon Blockchain Games
-HoneyBricks
-Flexa
-PolySign & Standard Custody
