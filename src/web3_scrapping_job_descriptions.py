@@ -1,34 +1,20 @@
+from operator import delitem
 import requests
+import csv 
 from bs4 import BeautifulSoup
 
-companies = []
-description = []
+
+data = {
+    "companies" : [],
+    "description" : []
+}
 
 BASE_URL = "https://web3.career"
 
-# urls = [
-#     "https://web3.career/dev+remote-jobs",
-#     "https://web3.career/",
-#     "https://web3.career/?page=2",
-#     "https://web3.career/?page=3",
-#     "https://web3.career/?page=4",
-#     "https://web3.career/?page=5",
-#     "https://web3.career/?page=6",
-#     "https://web3.career/?page=7",
-#     "https://web3.career/?page=8",
-#     "https://web3.career/?page=9",
-#     "https://web3.career/?page=10",
-#     "https://web3.career/?page=11",
-#     "https://web3.career/?page=12",
-#     "https://web3.career/?page=13",
-#     "https://web3.career/?page=14",
-#     "https://web3.career/?page=15",
-#     "https://web3.career/?page=16",
-#     "https://web3.career/?page=17",
-#     "https://web3.career/?page=18",
-#     "https://web3.career/?page=19",
-# ]
-
+'''
+Append urls to this list 
+e.g urls = ["url1", "url2", ...] 
+'''
 urls = ["https://web3.career/smart-contract-jobs"]
 
 def extract_companies():
@@ -48,9 +34,6 @@ def extract_companies():
 
                 company = row.find('div', class_ = "mt-auto d-block d-md-flex").text.strip()
                 
-                if company not in companies:
-                    companies.append(company)
-
                 lins_class = row.find('div', class_ = "mb-auto align-middle job-title-mobile")
                 for link in lins_class.find_all('a'):
                     extract_job_description(link.get('href'), company)
@@ -69,14 +52,22 @@ def extract_job_description(link, company):
     
     soup = BeautifulSoup(req.text, 'html.parser')
     content = soup.find("div", class_ = "text-dark-grey-text p-2 p-md-0").text.strip()
-
-    description.append(content) 
+    print(content)
+    data['description'].append(content)
+    data['companies'].append(company)
+    
     return 
 
+'''
+Write the desired file name  
+'''
 def writing_descriptions():
-    with open('data/web3_descriptions_smartjobs.txt', 'w') as file_handler:
-        for descriptions in description:
-            file_handler.write("{}".format(descriptions))
+    with open('data/web3_descriptions_smartjobs.csv', 'w', newline='') as file_handler:
+        writer = csv.writer(file_handler)
+    
+        writer.writerow(['Index', 'Company', 'Job Description'])
+        for index, (company, descriptions) in enumerate(zip(data["companies"], data['description'])):
+            writer.writerow([index, company, descriptions])
 
 if __name__ == "__main__":
     extract_companies()

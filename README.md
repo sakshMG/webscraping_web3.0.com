@@ -4,7 +4,7 @@ Simple web scraper for the website web3.career
 
 ## Description
 
-This simple web scraper extracts list of companies as well as job descriptions. You add all the links you want to be scraped from web3.career and saves data in a .txt file.
+This simple web scraper extracts list of companies as well as job descriptions. You add all the links you want to be scraped from web3.career and saves data in either a .txt file for companies or a .csv file for job descriptions as well.
 
 ## Getting Started
 
