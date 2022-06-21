@@ -52,7 +52,6 @@ def extract_job_description(link, company):
     
     soup = BeautifulSoup(req.text, 'html.parser')
     content = soup.find("div", class_ = "text-dark-grey-text p-2 p-md-0").text.strip()
-    print(content)
     data['description'].append(content)
     data['companies'].append(company)
     
